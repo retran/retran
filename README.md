@@ -12,13 +12,11 @@
 </a>
 </p>
 
-## My Projects
+## Projects
 
 ### project meow: Personal Developer Platform (Work in Progress)
 
 An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind.
-
-**Components:**
 
 - **[.meow](https://github.com/retran/.meow)** — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
 
