@@ -42,7 +42,7 @@ An integrated platform designed to create a consistent, personalized development
 
 ### Programming Languages & Interpreters
 
-- **[my-little-lispy-experimental](https://github.com/retran/my-little-lispy-experimental)** — Experimental Scheme-like Lisp dialect interpreter designed as a DSL engine for .NET applications. Explores metaprogramming and embedded scripting patterns.
+- **[my-little-lispy-experimental](https://github.com/retran/my-little-lispy-experimental)** — Experimental Scheme-like Lisp dialect interpreter designed as a DSL engine for .NET applications.
 
 ### Programming Problems
 
