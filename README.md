@@ -20,13 +20,13 @@ An integrated platform designed to create a consistent, personalized development
 
 **Components:**
 
-- **[.meow](https://github.com/retran/.meow)** (Dotfiles Management System) — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
+- **[.meow](https://github.com/retran/.meow)** — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
 
-- **[meowg1k](https://github.com/retran/meowg1k)** (AI CLI Sidekick) — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
+- **[meowg1k](https://github.com/retran/meowg1k)** — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
 
 - **[meowvim](https://github.com/retran/meowvim)** — Production-ready Neovim configuration with 50+ carefully curated plugins. Features GitHub Copilot integration, LSP support for multiple languages, debugging tools, session management, and optimized performance with lazy loading. Works seamlessly in both terminal and Neovide GUI.
 
-- **[meow-litterbox](https://github.com/retran/meow-litterbox)** (Containerized Dev Environment) — Pre-configured Docker images for portable and reproducible development environments. Ships with Neovim and essential dev tools, compatible with VS Code Dev Containers and remote SSH workflows.
+- **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Pre-configured Docker images for portable and reproducible development environments. Ships with Neovim and essential dev tools, compatible with VS Code Dev Containers and remote SSH workflows.
 
 - **[meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim)** — Neovim plugin for exploring LSP type and call hierarchies. Provides an interactive tree view with live code preview, asynchronous operation, and intuitive keyboard navigation. Makes navigating complex codebases feel like untangling yarn—simple and satisfying.
 
