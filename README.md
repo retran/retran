@@ -1,8 +1,10 @@
+![Profile views](https://komarev.com/ghpvc/?username=retran&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi, I'm Andrew!
 
 **Staff Software Engineer | Mentor | Developer Tooling & Experience**
 
-![Profile views](https://komarev.com/ghpvc/?username=retran&label=Profile%20views&color=0e75b6&style=flat)
+I'm a software developer passionate about creating tools that improve the developer experience. You can read my full story at **[retran.me/about](https://retran.me/about)**.
 
 ## Tech Stack
 
