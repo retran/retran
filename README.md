@@ -6,7 +6,7 @@
 
 # Hi, I'm Andrew!
 
-**Staff Software Engineer | Mentor | Developer Tooling & Experience**
+**Staff Software Engineer | Mentor | Developer Tooling & Experience** | ex-JetBrains
 
 I'm a software developer passionate about creating tools that improve the developer experience. You can read my full story at **[retran.me/about](https://retran.me/about)**.
 
