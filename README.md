@@ -1,4 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=retran&label=Profile%20views&color=0e75b6&style=flat)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=58a6ff&amp;style=flat">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
+  <img src="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
+</picture>
 
 # Hi, I'm Andrew!
 
@@ -10,7 +14,11 @@ I'm a software developer passionate about creating tools that improve the develo
 
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,java,kotlin,go,js,ts,lua,bash,docker,gcp,azure,godot&perline=7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Ccs%2Cjava%2Ckotlin%2Cgo%2Cjs%2Cts%2Clua%2Cbash%2Cdocker%2Cgcp%2Cazure%2Cgodot&amp;perline=7&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Ccs%2Cjava%2Ckotlin%2Cgo%2Cjs%2Cts%2Clua%2Cbash%2Cdocker%2Cgcp%2Cazure%2Cgodot&amp;perline=7&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=dotnet%2Ccs%2Cjava%2Ckotlin%2Cgo%2Cjs%2Cts%2Clua%2Cbash%2Cdocker%2Cgcp%2Cazure%2Cgodot&amp;perline=7&amp;theme=light" />
+</picture>
 </a>
 </p>
 
@@ -53,18 +61,22 @@ An integrated platform designed to create a consistent, personalized development
 ## Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=retran&show_icons=true&locale=en&theme=dark&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&layout=compact&langs_count=8&locale=en&theme=dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=retran&amp;show_icons=true&amp;locale=en&amp;theme=dark&amp;count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=retran&amp;show_icons=true&amp;locale=en&amp;theme=default&amp;count_private=true">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retran&amp;show_icons=true&amp;locale=en&amp;theme=default&amp;count_private=true">
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&amp;layout=compact&amp;langs_count=8&amp;locale=en&amp;theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&amp;layout=compact&amp;langs_count=8&amp;locale=en&amp;theme=default">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&amp;layout=compact&amp;langs_count=8&amp;locale=en&amp;theme=default">
+    </picture>
+  </a>
 </p>
 
 ## Let's Connect!
 
-<p align="left">
-
-<a href="https://linkedin.com/in/retran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/retran" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="Twitter/X" height="30" width="40" style="filter: invert(1);" /></a>
-<a href="https://mastodon.social/@retran" target="blank"><img align="center" src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon" height="30" width="40" style="filter: invert(1);"/></a>
-<a href="https://bsky.app/profile/retran.bsky.social" target="blank"><img align="center" src="https://simpleicons.org/icons/bluesky.svg" alt="Bluesky" height="30" width="40" style="filter: invert(1);"/></a>
-<a href="https://t.me/retran_in_the_netherlands" target="blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" height="30" width="40" style="filter: invert(1);"/></a>
-<a href="https://instagram.com/retraninthenetherlands" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40" style="filter: invert(1);"/></a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/retran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://twitter.com/retran" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/x.svg" style="filter: invert(1);"><source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/x.svg"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="Twitter/X" height="30" width="40"></picture></a><a href="https://mastodon.social/@retran" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/mastodon.svg" style="filter: invert(1);"><source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/mastodon.svg"><img align="center" src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon" height="30" width="40"></picture></a><a href="https://bsky.app/profile/retran.bsky.social" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/bluesky.svg" style="filter: invert(1);"><source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/bluesky.svg"><img align="center" src="https://simpleicons.org/icons/bluesky.svg" alt="Bluesky" height="30" width="40"></picture></a><a href="https://t.me/retran_in_the_netherlands" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/telegram.svg" style="filter: invert(1);"><source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/telegram.svg"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" height="30" width="40"></picture></a><a href="https://instagram.com/retraninthenetherlands" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/instagram.svg" style="filter: invert(1);"><source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/instagram.svg"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40"></picture></a></p>
