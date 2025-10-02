@@ -67,8 +67,7 @@ An integrated platform designed to create a consistent, personalized development
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=retran&amp;show_icons=true&amp;locale=en&amp;theme=default&amp;count_private=true">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retran&amp;show_icons=true&amp;locale=en&amp;theme=default&amp;count_private=true">
     </picture>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  </a><a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&amp;layout=compact&amp;langs_count=8&amp;locale=en&amp;theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=retran&amp;layout=compact&amp;langs_count=8&amp;locale=en&amp;theme=default">
