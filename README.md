@@ -28,9 +28,9 @@ I'm a software developer passionate about creating tools that improve the develo
 
 An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind.
 
-- **[.meow](https://github.com/retran/.meow)** — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
-
 - **[meowg1k](https://github.com/retran/meowg1k)** — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
+
+- **[.meow](https://github.com/retran/.meow)** — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
 
 - **[meowvim](https://github.com/retran/meowvim)** — Production-ready Neovim configuration with 50+ carefully curated plugins. Features GitHub Copilot integration, LSP support for multiple languages, debugging tools, session management, and optimized performance with lazy loading. Works seamlessly in both terminal and Neovide GUI.
 
