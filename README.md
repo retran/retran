@@ -1,12 +1,12 @@
+# Hi, I'm Andrew!
+
+**Staff Software Engineer | Mentor | Developer Tooling & Experience | ex-JetBrains**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=58a6ff&amp;style=flat">
   <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
   <img src="https://komarev.com/ghpvc/?username=retran&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
 </picture>
-
-# Hi, I'm Andrew!
-
-**Staff Software Engineer | Mentor | Developer Tooling & Experience | ex-JetBrains**
 
 I'm a software developer passionate about creating tools that improve the developer experience. You can read my full story at **[retran.me/about](https://retran.me/about)**.
 
