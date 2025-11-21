@@ -24,19 +24,25 @@ I'm a software developer passionate about creating tools that improve the develo
 
 ## Projects
 
+Понял. Вот обновленная версия, где `meowctl` занимает центральное место как актуальный инструмент, а `.meow` сохранен с явной пометкой **Deprecated**, чтобы отразить историю проекта и текущий статус миграции.
+
+***
+
 ### project meow: Personal Developer Platform (Work in Progress)
 
-An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind.
+An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind, prioritizing native performance and "zero dependency" architecture.
+
+- **[meowctl](https://github.com/retran/meowctl)** — The evolution of the platform's core. A statically compiled **Go configuration tool** that orchestrates environment setup, manages packages, and applies idempotent configurations. It serves as the central nervous system for "The Den" (host) and "Litterbox" (containers), offering strict typing and reliability.
 
 - **[meowg1k](https://github.com/retran/meowg1k)** — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
 
-- **[.meow](https://github.com/retran/.meow)** — Component-based Bash system for automated development environment setup. Manages package installation, configuration symlinks, and dependencies with cross-platform support for macOS and Linux.
-
 - **[meowvim](https://github.com/retran/meowvim)** — Production-ready Neovim configuration with 50+ carefully curated plugins. Features GitHub Copilot integration, LSP support for multiple languages, debugging tools, session management, and optimized performance with lazy loading. Works seamlessly in both terminal and Neovide GUI.
 
-- **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Pre-configured Docker images for portable and reproducible development environments. Ships with Neovim and essential dev tools, compatible with VS Code Dev Containers and remote SSH workflows.
+- **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Pre-configured Docker images for portable and reproducible development environments. Ships with Neovim and essential dev tools, compatible with VS Code Dev Containers and remote SSH workflows. Managed via `meowctl` for consistency with the host system.
 
 - **[meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim)** — Neovim plugin for exploring LSP type and call hierarchies. Provides an interactive tree view with live code preview, asynchronous operation, and intuitive keyboard navigation. Makes navigating complex codebases feel like untangling yarn—simple and satisfying.
+
+- **[.meow](https://github.com/retran/.meow)** — **[DEPRECATED]** The original component-based Bash framework for automated environment setup. While it established the platform's core principles, it is no longer actively maintained and has been superseded by **meowctl** to overcome architectural limitations.
 
 ### Game Development Tools
 
