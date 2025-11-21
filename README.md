@@ -24,10 +24,6 @@ I'm a software developer passionate about creating tools that improve the develo
 
 ## Projects
 
-Понял. Вот обновленная версия, где `meowctl` занимает центральное место как актуальный инструмент, а `.meow` сохранен с явной пометкой **Deprecated**, чтобы отразить историю проекта и текущий статус миграции.
-
-***
-
 ### project meow: Personal Developer Platform (Work in Progress)
 
 An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind, prioritizing native performance and "zero dependency" architecture.
