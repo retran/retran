@@ -28,7 +28,7 @@ I'm a software developer passionate about creating tools that improve the develo
 
 An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind, prioritizing native performance and "zero dependency" architecture.
 
-- **[meowctl](https://github.com/retran/meowctl)** — The evolution of the platform's core. A statically compiled **Go configuration tool** that orchestrates environment setup, manages packages, and applies idempotent configurations. It serves as the central nervous system for "The Den" (host) and "Litterbox" (containers), offering strict typing and reliability.
+- **[meowctl](https://github.com/retran/meowctl)** — The evolution of the platform's core. A statically compiled **Rust configuration tool** that orchestrates environment setup, manages packages, and applies idempotent configurations. It serves as the central nervous system for "The Den" (host) and "Litterbox" (containers), offering strict typing and reliability.
 
 - **[meowg1k](https://github.com/retran/meowg1k)** — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
 
