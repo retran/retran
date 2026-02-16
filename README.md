@@ -24,7 +24,7 @@ I'm a software developer passionate about creating tools that improve the develo
 
 ## Projects
 
-### project meow: Personal Developer Platform (Work in Progress)
+### miauwerie: Personal Developer Platform (Work in Progress)
 
 An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind, prioritizing native performance and "zero dependency" architecture.
 
