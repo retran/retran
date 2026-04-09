@@ -6,9 +6,9 @@
 
 # Hi, I'm Andrew!
 
-**Principal Software Engineer | Mentor | Developer Tooling & Experience | ex-JetBrains**
+I build developer tools for a living and tinker with them for fun. Currently a **Principal Developer at [Mendix](https://www.mendix.com/)**, working on **Studio Pro** and **Maia** — the AI-assisted development experience for low-code. Before Mendix, I spent seven years at JetBrains shipping features for ReSharper and Rider, then led the ReSharper AI team. I also teach — courses on IDE development, programming languages, and machine learning at universities in Russia and Germany.
 
-I'm a software developer passionate about creating tools that improve the developer experience. You can read my full story at **[retran.me/about](https://retran.me/about)**.
+More at **[retran.me](https://retran.me/)**.
 
 ## Tech Stack
 
@@ -24,41 +24,45 @@ I'm a software developer passionate about creating tools that improve the develo
 
 ## Projects
 
-### miauwerie: Personal Developer Platform (Work in Progress)
+### Project Meow: Personal Developer Platform
 
-An integrated platform designed to create a consistent, personalized development environment across different machines and operating systems. Built with developer experience in mind, prioritizing native performance and "zero dependency" architecture.
+An integrated platform for a consistent development environment across machines and operating systems.
 
-- **[meowctl](https://github.com/retran/meowctl)** — The evolution of the platform's core. A statically compiled **Rust configuration tool** that orchestrates environment setup, manages packages, and applies idempotent configurations. It serves as the central nervous system for "The Den" (host) and "Litterbox" (containers), offering strict typing and reliability.
+- **[meowary](https://github.com/retran/meowary)** — Work journal template for developers. Combines PARA, daily notes, a Zettelkasten-style knowledge graph with semantic search, and structured coding workflows. Runs on OpenCode.
 
-- **[meowg1k](https://github.com/retran/meowg1k)** — Single-binary command-line tool for LLM-powered code generation, refactoring, and explanation. Zero dependencies, supports multiple AI providers (Gemini, OpenAI, Anthropic, and local models via llama.cpp). Designed for both interactive use and automation pipelines.
+- **[meowctl](https://github.com/retran/meowctl)** — Rust tool that sets up development environments. Manages packages, applies configurations idempotently, and ties the rest of the platform together.
 
-- **[meowvim](https://github.com/retran/meowvim)** — Production-ready Neovim configuration with 50+ carefully curated plugins. Features GitHub Copilot integration, LSP support for multiple languages, debugging tools, session management, and optimized performance with lazy loading. Works seamlessly in both terminal and Neovide GUI.
+- **[meowg1k](https://github.com/retran/meowg1k)** — CLI for LLM-powered code generation, refactoring, and explanation. Single binary, supports multiple providers and local models.
 
-- **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Pre-configured Docker images for portable and reproducible development environments. Ships with Neovim and essential dev tools, compatible with VS Code Dev Containers and remote SSH workflows. Managed via `meowctl` for consistency with the host system.
+- **[meowvim](https://github.com/retran/meowvim)** — Neovim configuration with 50+ plugins. Copilot, multi-language LSP, debugging, session management, and lazy loading.
 
-- **[meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim)** — Neovim plugin for exploring LSP type and call hierarchies. Provides an interactive tree view with live code preview, asynchronous operation, and intuitive keyboard navigation. Makes navigating complex codebases feel like untangling yarn—simple and satisfying.
+- **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Docker images for portable dev environments. Works with VS Code Dev Containers and remote SSH.
 
-- **[.meow](https://github.com/retran/.meow)** — **[DEPRECATED]** The original component-based Bash framework for automated environment setup. While it established the platform's core principles, it is no longer actively maintained and has been superseded by **meowctl** to overcome architectural limitations.
+- **[meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim)** — Neovim plugin for browsing LSP type and call hierarchies. Tree view with live code preview.
+
+- **[.meow](https://github.com/retran/.meow)** — **[DEPRECATED]** Original Bash framework for automated environment setup. Superseded by meowctl.
 
 ### Game Development Tools
 
-- **[strata](https://github.com/retran/strata)** — Command-line tool for game artists and technical artists. Exports PBR (Physically Based Rendering) textures from Photoshop PSD files, generates normal maps from height data, and packs multiple texture channels into optimized atlases for game engines.
+- **[strata](https://github.com/retran/strata)** — CLI that exports PBR textures from Photoshop PSD files. Generates normal maps and packs texture channels into atlases.
 
-- **[picotron-project-template](https://github.com/retran/picotron-project-template)** — Starter template for Picotron fantasy computer game development. Includes organized project structure, logging utilities, and unit testing framework to accelerate game prototyping.
+- **[picotron-project-template](https://github.com/retran/picotron-project-template)** — Starter template for Picotron fantasy computer games. Includes project structure, logging, and unit testing.
 
-- **[qpb-image-format](https://github.com/retran/qpb-image-format)** — Lua scripts for Picotron that convert standard PNG images to QPB (Quad Palette Bitmap) format. Optimized for intro sequences and static backgrounds in fantasy console games.
+- **[qpb-image-format](https://github.com/retran/qpb-image-format)** — PNG-to-QPB converter for Picotron intro sequences and static backgrounds.
 
-### Educational
+### Teaching
 
-- **[ide-development-2023](https://github.com/retran/ide-development-2023)** — Complete course materials for IDE Development, covering syntax parsing, code analysis, refactoring, and editor integration. Licensed under CC BY-NC-SA 4.0 for educational use.
+- **[ide-development-2023](https://github.com/retran/ide-development-2023)** — Course materials for a university course on IDE internals: syntax parsing, code analysis, refactoring, and editor integration. CC BY-NC-SA 4.0.
 
-### Programming Languages & Interpreters
+See all courses and talks at **[retran.me/talks/](https://retran.me/talks/)**.
 
-- **[my-little-lispy-experimental](https://github.com/retran/my-little-lispy-experimental)** — Experimental Scheme-like Lisp dialect interpreter designed as a DSL engine for .NET applications.
+### Languages & Interpreters
+
+- **[my-little-lispy-experimental](https://github.com/retran/my-little-lispy-experimental)** — Scheme-like Lisp interpreter written as a DSL engine for .NET.
 
 ### Programming Problems
 
-- **[problems](https://github.com/retran/problems)** — Collection of problem solutions from competitive programming platforms including Advent of Code, HackerRank, and LeetCode. Implemented in C#, Go, and Kotlin.
+- **[problems](https://github.com/retran/problems)** — Competitive programming solutions (Advent of Code, HackerRank, LeetCode) in C#, Go, and Kotlin.
 
 ## Stats
 
