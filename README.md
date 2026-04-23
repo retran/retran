@@ -30,7 +30,7 @@ An integrated platform for a consistent development environment across machines 
 
 - **[meowary](https://github.com/retran/meowary)** — Work journal template for developers. Combines PARA, daily notes, a Zettelkasten-style knowledge graph with semantic search, and structured coding workflows. Runs on OpenCode.
 
-- **[meowctl](https://github.com/retran/meowctl)** — Rust tool that sets up development environments. Manages packages, applies configurations idempotently, and ties the rest of the platform together.
+- **[meowctl](https://github.com/retran/meowctl)** — CLI tool that sets up development environments. Manages packages, applies configurations idempotently, and ties the rest of the platform together.
 
 - **[meowg1k](https://github.com/retran/meowg1k)** — CLI for LLM-powered code generation, refactoring, and explanation. Single binary, supports multiple providers and local models.
 
