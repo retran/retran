@@ -38,6 +38,8 @@ An integrated platform for a consistent development environment across machines 
 
 - **[meow-litterbox](https://github.com/retran/meow-litterbox)** — Docker images for portable dev environments. Works with VS Code Dev Containers and remote SSH.
 
+- **[meow.review.nvim](https://github.com/retran/meow.review.nvim)** — Neovim plugin for inline code review annotations. Leave typed, persistent comments and export structured Markdown for AI agents.
+
 - **[meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim)** — Neovim plugin for browsing LSP type and call hierarchies. Tree view with live code preview.
 
 - **[.meow](https://github.com/retran/.meow)** — **[DEPRECATED]** Original Bash framework for automated environment setup. Superseded by meowctl.
