@@ -44,7 +44,6 @@ An integrated platform for a consistent development environment across machines.
 | [meowctl](https://github.com/retran/meowctl) | CLI that sets up dev environments idempotently — packages, configs, dotfiles. |
 | [meowg1k](https://github.com/retran/meowg1k) | Single-binary CLI for LLM-powered code generation and refactoring. Supports multiple providers and local models. |
 | [meowvim](https://github.com/retran/meowvim) | Neovim config: 50+ plugins, Copilot, multi-language LSP, debugging, session management. |
-| [meow-litterbox](https://github.com/retran/meow-litterbox) | Docker images for portable dev environments. Works with VS Code Dev Containers and remote SSH. |
 | [meow.review.nvim](https://github.com/retran/meow.review.nvim) | Neovim plugin for inline code review annotations. Exports structured Markdown for AI agents. |
 | [meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) | Neovim plugin for browsing LSP type and call hierarchies with live code preview. |
 
