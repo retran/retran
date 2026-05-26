@@ -18,13 +18,6 @@ More at **[retran.me](https://retran.me/)**.
 
 ---
 
-## Currently
-
-- Building MCP tooling for Studio Pro / Maia
-- Developing [meowary](https://github.com/retran/meowary) — a developer work journal template with semantic search and AI-assisted workflows
-
----
-
 ## Tech Stack
 
 <p align="left">
